@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently an engineering student at CentraleSupelec, specializing in AI.
+
 <!--
 **Tiiki/tiiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
